@@ -33,7 +33,7 @@
 
 - ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
 
-- 🧠 I regularly do codewars [Codewars](https://www.codewars.com/users/yuriibel)
+- 🧠 I actively engage in solving coding challenges on the CodeWars platform [link](https://www.codewars.com/users/yuriibel)
 
 - 🍭 My personal website [link]([https://www.0xabdulkhalid.ml](https://yb-website-v2.vercel.app/))
 
