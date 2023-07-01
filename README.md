@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><picture><img src = "https://github.com/yurii-bel/yurii-bel/wow.gif" width = 50px></picture><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
 
