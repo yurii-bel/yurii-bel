@@ -35,7 +35,7 @@
 
 - 🧠 I actively engage in solving coding challenges on the CodeWars platform [Link](https://www.codewars.com/users/yuriibel)
 
-- 🍭 My personal website [Link]([https://www.0xabdulkhalid.ml](https://yb-website-v2.vercel.app/))
+- 🍭 My personal website [Link](https://yb-website-v2.vercel.app/)
 
 - 📫 Feel free to reach me out **yuriibel888@gmail.com**
 
