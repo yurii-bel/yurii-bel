@@ -23,7 +23,7 @@
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
-
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
