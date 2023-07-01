@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><picture><img src = "https://github.com/yurii-bel/yurii-bel/raw/main/wow1.gif" width = 50px></picture><h2 style="display: inline-block"> I build things for the web </h2></summary>
+    <summary><picture><img src = "https://github.com/yurii-bel/yurii-bel/raw/main/wow1.gif" width = 50px></picture><h2 style="display: inline-block"><br />I build things for the web </h2></summary>
   </ul>
 </div>
 
