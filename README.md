@@ -20,24 +20,26 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><picture><img src = "https://github.com/yurii-bel/yurii-bel/raw/main/wow.gif" width = 50px></picture><h2 style="display: inline-block"> Confusion is part of Programming</h2></summary>
+    <summary><picture><img src = "https://github.com/yurii-bel/yurii-bel/raw/main/wow.gif" width = 50px></picture><h2 style="display: inline-block"> I build things for the web </h2></summary>
   </ul>
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 💻 A passionate Self-taught Front End Developer
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🔭 I’m currently working on **React, Nextjs, Nodejs, Astro, TailwindCSS, MongoDB, AWS S3**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 🌱 I’m currently learning **how to write clean code for Scalable Applications.**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- ☁️ I've keen interest in cloud computing. So, I'm learning **AWS**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 🧠 I regularly do codewars [Codewars](https://www.codewars.com/users/yuriibel)
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+- 🍭 My personal website [link]([https://www.0xabdulkhalid.ml](https://yb-website-v2.vercel.app/))
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 📫 Feel free to reach me out **yuriibel888@gmail.com**
+
+- 💪 I’m currently open for a new job opportunity
 <!--Intro end-->
 
 
