@@ -25,7 +25,7 @@
 </div>
 
 <!--Intro start-->
-- 💻 A passionate Self-taught Front End Developer
+- 💻 Experienced Front End Developer with a Bachelor's Degree in Computer Science
 
 - 🔭 I’m currently working on **React, Nextjs, Nodejs, Astro, TailwindCSS, MongoDB, AWS S3**
 
