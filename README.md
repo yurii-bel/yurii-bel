@@ -25,7 +25,7 @@
 </div>
 
 <!--Intro start-->
-- 💻 Experienced Front End Developer with a Bachelor's Degree in Computer Science
+- 💻 Experienced Front-End Developer with a Bachelor's Degree in Computer Science and a Master's Degree in Systems Engineering
 
 - 🔭 I’m currently working on **React, Nextjs, Nodejs, Astro, TailwindCSS, MongoDB, AWS S3**
 
